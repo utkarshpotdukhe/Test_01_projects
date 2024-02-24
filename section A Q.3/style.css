@@ -3,7 +3,7 @@ body {
     height: 100vh;
     display: flex;
     justify-content: center;
-    background-color: #f0f0f0; 
+    background-color: white; 
   }
 
   .main-container {
