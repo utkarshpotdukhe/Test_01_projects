@@ -1,0 +1,61 @@
+body {
+	background-image: url('https://cdn.pixabay.com/photo/2015/07/02/10/23/training-828741_1280.jpg');
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	min-height: 100vh;
+	margin: 0;
+	padding: 0;
+}
+.header {
+	background-color: rgba(82, 78, 78, 0.5);
+	color: white;
+	display: flex;
+	justify-content: space-between;
+	padding: 1px 20px;
+}
+.logo {
+	font-size: 2rem;
+}
+nav {
+	display: flex;
+	align-items: center;
+    gap: 2px;
+}
+nav a {
+	color: white;
+	padding: 0 10px;
+	text-decoration: none;
+}
+nav a:hover {
+	color: white;
+}
+.main {
+	padding: 20px;
+	text-align: center;
+    margin-top: 130px;
+}
+
+span {
+    color: orangered;
+}
+
+.btn {
+    background-color: orangered;
+}
+
+.txt {
+    font-size: 0.7rem;
+    color: white;
+}
+
+.txt1 {
+    font-size: 2rem;
+    color: white;
+}
+
+.btn1 {
+    background-color: orangered;
+    padding: 4px;
+
+}
