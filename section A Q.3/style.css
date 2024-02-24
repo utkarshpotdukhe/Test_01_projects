@@ -3,7 +3,7 @@ body {
     height: 100vh;
     display: flex;
     justify-content: center;
-    background-color: #f0f0f0; /* Set a background color for the body */
+    background-color: #f0f0f0; 
   }
 
   .main-container {
