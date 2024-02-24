@@ -1,0 +1,43 @@
+body {
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+}
+
+.container {
+    width: 53%;
+    padding: 111px;
+    box-sizing: border-box;
+    align-self: flex-end; 
+    background-color: rgb(102, 102, 196);
+    margin-top: 83px;
+    text-align: center;
+}
+
+.container h1,
+.container h2,
+.container button,
+.container form {
+    margin: 0;
+    align-items: center;
+}
+
+.signup-text {
+    text-align: right;
+    margin-top: 10px;
+}
+
+.user {
+    width: 100%;
+}
+
+.img {
+    width: 54%;
+    align-self: flex-start; 
+    margin-top: -230px;
+}
+
+.img img {
+    max-width: 80%;
+    margin-top: -240px;
+}
