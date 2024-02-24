@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh; 
+}
+
+
+h1 {
+    color: rgb(25, 25, 58);
+}
+
+span {
+    font-size: 6rem;
+    color: rgb(99, 223, 99);
+}
+
+.btn {
+    border-radius: 3px;
+}
